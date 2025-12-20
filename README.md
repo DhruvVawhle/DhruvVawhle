@@ -77,8 +77,6 @@
 ## 📫 Contact / Resume
 - 🔗 **LinkedIn:** https://linkedin.com/in/dhruv-vawhle-277b2b2b8  
 - 📧 **Email:** dhruvawhle@gmail.com  
-- 📄 **Resume:** *(Add Google Drive / PDF link here)*  
 
----
 
 ⭐ If you like my work, consider giving a star!
