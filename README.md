@@ -59,12 +59,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruvVawhle&show_icons=true&theme=default" />
-</p>
-
----
 
 ## 📈 Top Languages
 <p align="center">
