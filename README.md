@@ -91,17 +91,6 @@
 - Voice-based interaction (STT + TTS)  
 - Privacy-focused Flask backend  
 
-🔗 https://github.com/your-username/MedTalk  
-
----
-
-## 💼 Experience
-**Software Development Engineer (Web) Intern**  
-📍 Compozent (Dec 2024 – Jan 2025)  
-- Worked with React, Node.js, Git  
-- Agile team collaboration  
-- Bug fixing & feature enhancement  
-
 ---
 
 ## 📫 Connect With Me
