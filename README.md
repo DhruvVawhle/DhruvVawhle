@@ -68,7 +68,9 @@
 ---
 
 ## 🚀 Featured Projects
-- 🌾 **KrishiSaathi** – Digital Farm-to-Market Platform  
+- 🌾 **KrishiSaathi** – Digital Farm-to-Market Platform
+       Link:- https://krishisathi-oil3chfiq-dhruvawhle-9596s-projects.vercel.app/
+       
 - 🏥 **MedTalk** – AI Healthcare Chatbot  
 - 💼 **Compozent Internship Project** – Full Stack Web Development  
 
