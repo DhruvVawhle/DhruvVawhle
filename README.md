@@ -60,5 +60,5 @@
 ---
 
 ## 📫 Connect With Me
-- 🔗 LinkedIn: https://linkedin.com/in/dhruv-vawhle
+- 🔗 LinkedIn: https://linkedin.com/in/dhruv-vawhle-277b2b2b8
 - 📧 Email: dhruvawhle@gmail.com
