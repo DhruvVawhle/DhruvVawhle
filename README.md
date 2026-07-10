@@ -169,41 +169,6 @@ Features
 
 ---
 
-## 💼 Internship Projects
-
-### Compozent
-
-Software Development Engineer (Web)
-
-- React Development
-- Node.js APIs
-- Agile Development
-- Production Bug Fixing
-
----
-
-### CodSoft
-
-Web Development Intern
-
-- Responsive Websites
-- JavaScript Projects
-- Landing Pages
-- UI Components
-
----
-
-# 📜 Certifications
-
-- Google Cloud – Introduction to Generative AI
-- Google Cloud – Security in the World of AI
-- Cisco – Introduction to Data Science
-- Google Cloud – Data Transformation
-- NxtWave – Build Your Own Generative AI Model
-- Edunet Foundation – Green Skills & Artificial Intelligence
-
----
-
 # 🎯 Interests
 
 - Artificial Intelligence
@@ -226,11 +191,6 @@ Web Development Intern
 
 https://linkedin.com/in/dhruv-vawhle-277b2b2b8
 
-💻 GitHub
-
-https://github.com/DhruvVawhle
-
----
 
 <p align="center">
 
