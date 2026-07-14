@@ -148,7 +148,7 @@ React • Node.js • Firebase • MongoDB • Python • ARIMA • Razorpay •
 
 🔗 Live Demo
 
-https://krishisathi-oil3chfiq-dhruvawhle-9596s-projects.vercel.app/
+https://krishisaathi-web.vercel.app/
 
 ---
 
