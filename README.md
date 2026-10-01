@@ -40,20 +40,7 @@ Building AI-powered applications, scalable web platforms, and real-world softwar
 
 ---
 
-# 🚀 Currently Working On
-
-🌾 **KrishiSaathi**
-> AI-powered Farm-to-Market Marketplace connecting farmers directly with buyers.
-
-### Features
-
-- 🤖 ARIMA-based Price Prediction
-- 📊 Mandi Price Analytics
-- 🌍 Multilingual Marketplace
-- 💳 Razorpay Integration
-- 🔐 Firebase Authentication
-- 📦 Farmer & Buyer Dashboard
-- ☁️ Cloud Deployment
+# 🚀 Currently Working On Nothing
 
 ---
 
