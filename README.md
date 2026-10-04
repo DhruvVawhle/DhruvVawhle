@@ -50,7 +50,7 @@ Building AI-powered applications, scalable web platforms, and real-world softwar
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,mysql" />
 
 </p>
 
