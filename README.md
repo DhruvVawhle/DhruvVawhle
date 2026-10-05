@@ -109,14 +109,6 @@ Safer AI.
 
 ---
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvVawhle&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🚀 Featured Projects
 
 ## 🌾 KrishiSaathi
