@@ -143,7 +143,7 @@ Java · J2EE · Servlets · HTML · CSS · JavaScript
 ### Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,git,github,vscode,antigravity" />
 </p>
 
 ---
