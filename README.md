@@ -40,7 +40,10 @@ Building AI-powered applications, scalable web platforms, and real-world softwar
 
 ---
 
-# 🚀 Currently Working On Nothing
+# 🚀 Currently Working On 
+
+PROMPTSHIELD - Build
+Safer AI.
 
 ---
 
@@ -99,8 +102,6 @@ Building AI-powered applications, scalable web platforms, and real-world softwar
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DhruvVawhle&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVawhle&layout=compact&theme=tokyonight"/>
 
