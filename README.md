@@ -1,181 +1,161 @@
-<h1 align="center">Hi 👋, I'm Dhruv Vawhle</h1>
+<h1 align="center">Hi, I'm Dhruv Vawhle</h1>
 
 <h3 align="center">
-Full Stack Developer • AI/ML Enthusiast • B.Tech Information Technology Student
+Full Stack Developer · AI/ML Enthusiast · B.Tech IT Student
 </h3>
 
 <p align="center">
-Building AI-powered applications, scalable web platforms, and real-world software solutions.
+I build AI-powered applications, full-stack platforms, and security-focused software
+that solve practical real-world problems.
 </p>
 
 <p align="center">
-<a href="https://github.com/DhruvVawhle">
-<img src="https://komarev.com/ghpvc/?username=DhruvVawhle&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
-
-<a href="https://github.com/DhruvVawhle?tab=followers">
-<img src="https://img.shields.io/github/followers/DhruvVawhle?label=Followers&style=social" />
-</a>
-
-<a href="https://github.com/DhruvVawhle">
-<img src="https://img.shields.io/github/stars/DhruvVawhle?affiliations=OWNER&style=social" />
-</a>
+  <a href="https://github.com/DhruvVawhle">
+    <img src="https://komarev.com/ghpvc/?username=DhruvVawhle&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/DhruvVawhle?tab=followers">
+    <img src="https://img.shields.io/github/followers/DhruvVawhle?label=Followers&style=social" />
+  </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
-🎓 Final Year B.Tech Information Technology Student (University of Mumbai)
-
-💻 Full Stack Developer specializing in React, Node.js, Firebase & MongoDB
-
-🤖 Passionate about Artificial Intelligence, Machine Learning & Data Science
-
-🌐 Interested in Cloud Computing, Cybersecurity and Software Engineering
-
-🚀 Building scalable products that solve real-world problems
-
-📍 Mumbai, Maharashtra, India 🇮🇳
+- 🎓 Final Year B.Tech Information Technology Student — University of Mumbai
+- 💻 Full Stack Developer focused on React, Next.js, Node.js and modern web applications
+- 🤖 Interested in Artificial Intelligence, Machine Learning and Data Science
+- 🔐 Exploring AI security, cybersecurity and secure AI systems
+- ☁️ Interested in cloud computing and scalable application architecture
+- 📍 Mumbai, Maharashtra, India
 
 ---
 
-# 🚀 Currently Working On 
+## Currently Building
 
-PROMPTSHIELD - Build
-Safer AI.
+### PromptShield — Build Safer AI
 
----
+PromptShield is an AI security platform designed to analyze prompts, detect threats,
+apply security policies, and control what reaches AI models.
 
-# 🛠 Tech Stack
+**Focus Areas**
 
-## Programming Languages
+- Prompt analysis
+- Threat detection
+- Prompt injection protection
+- AI security policies
+- AI gateway architecture
+- Secure AI agent workflows
 
-<p>
+**Technology**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,mysql" />
-
-</p>
-
----
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
-
-</p>
+Next.js · TypeScript · Tailwind CSS · Firebase · Node.js · OmniRoute · AI APIs
 
 ---
 
-## Backend
+## Featured Projects
 
-<p>
+### 🌾 KrishiSaathi
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+**AI-Powered Farm-to-Market Marketplace**
 
-</p>
+A platform connecting farmers directly with buyers while providing market intelligence
+and AI-powered agricultural price forecasting.
 
----
+**Key Features**
 
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
-
-</p>
-
----
-
-## Cloud & DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,git,github" />
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVawhle&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🌾 KrishiSaathi
-### AI-Powered Farm-to-Market Marketplace
+- AI-based crop price prediction using ARIMA
+- Real-time Mandi price dashboard
+- Farmer-to-customer marketplace
+- Secure online payments
+- Firebase + MongoDB hybrid architecture
+- Node.js / Express backend
 
 **Tech Stack**
 
-React • Node.js • Firebase • MongoDB • Python • ARIMA • Razorpay • Vercel
+React · Node.js · Express · Firebase · MongoDB · Python · ARIMA · Razorpay · Vercel
 
-**Highlights**
-
-- AI-based crop price prediction
-- Direct farmer-to-customer marketplace
-- Real-time Mandi price dashboard
-- Secure payment gateway
-- Hybrid Firebase + MongoDB architecture
-
-🔗 Live Demo
-
+🔗 **Live Demo:**  
 https://krishisaathi-web.vercel.app/
 
 ---
 
-## 🏥 MedTalk
+### 🏥 MedTalk
 
-AI-powered multilingual Healthcare Chatbot
+**AI-Powered Multilingual Healthcare Assistant**
 
-**Tech**
+A conversational AI application designed to provide multilingual interaction
+through text and voice.
 
-Python • Flask • Google Gemini API • Google Cloud
+**Features**
 
-Features
+- AI-powered conversational assistant
+- Voice interaction
+- Multilingual support
+- REST API integration
+- Google Gemini integration
 
-- Voice Interaction
-- AI Medical Assistant
-- REST APIs
-- Multilingual Support
+**Tech Stack**
 
----
-
-# 🎯 Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Full Stack Development
-- Cloud Computing
-- Cybersecurity
-- Software Engineering
+Python · Flask · Google Gemini API · Google Cloud
 
 ---
 
-# 📫 Connect With Me
+### 🏠 DreamSpaces
 
-📧 Email
+**Full-Stack Home Renovation Platform**
 
-**dhruvawhle@gmail.com**
+A web platform for exploring interior design portfolios,
+managing contractors, and organizing home renovation projects.
 
-💼 LinkedIn
+**Tech Stack**
 
-https://linkedin.com/in/dhruv-vawhle-277b2b2b8
+Java · J2EE · Servlets · HTML · CSS · JavaScript
 
+---
 
-<p align="center">
+## Tech Stack
 
-⭐ If you like my projects, consider giving them a star!
+### Languages
 
-Thanks for visiting my profile 😊
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css" />
 </p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" />
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,git,github,vscode" />
+</p>
+
+---
+
+## Areas of Interest
+
+```text
+Artificial Intelligence
+Machine Learning
+AI Security
+Full Stack Development
+Data Science
+Cloud Computing
+Cybersecurity
+Software Engineering
