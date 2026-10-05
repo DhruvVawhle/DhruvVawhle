@@ -119,7 +119,7 @@ Java · J2EE · Servlets · HTML · CSS · JavaScript
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,c,c++" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,c,cpp" />
 </p>
 
 ### Frontend
