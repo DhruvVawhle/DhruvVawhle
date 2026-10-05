@@ -174,8 +174,8 @@ Cloud Computing
 Cybersecurity
 Software Engineering
 System Architecture
-
-🔥 Contribution Streak
+```
+##🔥 Contribution Streak
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvVawhle&hide_border=true&theme=transparent"
@@ -183,7 +183,7 @@ System Architecture
   />
 </p>
 
-📈 GitHub Activity
+##📈 GitHub Activity
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvVawhle&hide_border=true&bg_color=00000000&color=0e75b6&line=0e75b6&point=0e75b6&area=true"
@@ -191,7 +191,7 @@ System Architecture
   />
 </p>
 
-🌐 Connect With Me
+##🌐 Connect With Me
 <p align="center">
 
   <a href="mailto:dhruvawhle@gmail.com">
@@ -213,6 +213,6 @@ System Architecture
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! 🚀
+## Thanks for visiting my profile! 🚀
 </p>
-```
+
