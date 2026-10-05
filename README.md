@@ -177,25 +177,12 @@ System Architecture
 ```
 
 ---
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=DhruvVawhle&hide_border=true&theme=transparent"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-## 📈 GitHub Activity
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvVawhle&hide_border=true&bg_color=00000000&color=0e75b6&line=0e75b6&point=0e75b6&area=true"
-    alt="GitHub Activity Graph"
-  />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVawhle&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
