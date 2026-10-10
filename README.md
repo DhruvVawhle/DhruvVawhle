@@ -56,6 +56,8 @@ Building AI-powered applications, full-stack platforms, and security-focused sof
 
 `Next.js` · `TypeScript` · `Tailwind CSS` · `Firebase` · `Node.js` · `OmniRoute`
 
+🔗 **[View Repository](https://github.com/DhruvVawhle/PromptShield)**
+
 ---
 
 ## 🧩 Featured Projects
