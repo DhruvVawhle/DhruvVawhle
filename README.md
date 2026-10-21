@@ -94,43 +94,6 @@ An AI-powered multilingual healthcare assistant built to provide conversational 
 
 ---
 
-### 🎬 IMDB Movie Review Sentiment Analysis
-
-A Machine Learning and Natural Language Processing project that classifies IMDB movie reviews as **Positive or Negative** using the IMDB 50K Movie Reviews dataset.
-
-The project covers the complete NLP workflow from text preprocessing and exploratory data analysis to feature extraction, model training, and evaluation.
-
-**Tech:** Python · Pandas · NumPy · Scikit-learn · TensorFlow/Keras · NLTK · Matplotlib · Seaborn
-
-- Binary sentiment classification
-- NLP text preprocessing
-- Exploratory Data Analysis
-- TF-IDF feature extraction
-- Machine Learning model training
-- Confusion matrix and performance evaluation
-
-🔗 **[View Repository](https://github.com/DhruvVawhle/IMDB-Movie-Review-Sentiment-Analysis)**
-
----
-
-### 🏠 DreamSpaces — Home Renovation & Interior Design Platform
-
-A Java/J2EE web platform that connects homeowners with interior contractors while providing project showcases, contractor management, user management, and inquiry functionality.
-
-**Tech:** Java · JSP · Servlets · HTML · CSS · JavaScript · MySQL · JDBC · Apache Tomcat
-
-- Interior and project showcase galleries
-- Contractor profiles and management
-- Full CRUD operations
-- User management module
-- MySQL database integration
-- MVC + DAO architecture
-- JSP-based dynamic web application
-
-🔗 **[View Repository](https://github.com/DhruvVawhle/DreamSpaces)**
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -160,7 +123,7 @@ A Java/J2EE web platform that connects homeowners with interior contractors whil
 ### Cloud & Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,git,github,vscode" alt="Cloud and Development Tools" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,git,github,vscode,gemini,chatgpt,claude" alt="Cloud and Development Tools" />
 </p>
 
 ---
