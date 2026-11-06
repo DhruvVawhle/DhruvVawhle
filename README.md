@@ -3,11 +3,11 @@
 <h1 align="center">Hi, I'm Dhruv Vawhle 👋</h1>
 
 <h3 align="center">
-Full Stack Developer · AI/ML Enthusiast · B.Tech Information Technology
+Software Engineer · Full-Stack Developer · AI/ML · AI Security
 </h3>
 
 <p align="center">
-Building AI-powered applications, full-stack platforms, and security-focused software.
+Final-year B.Tech Information Technology student building AI-powered applications, full-stack platforms, and security-focused software.
 </p>
 
 <p align="center">
@@ -23,72 +23,107 @@ Building AI-powered applications, full-stack platforms, and security-focused sof
 
 ## 👨‍💻 About Me
 
-🎓 Final Year B.Tech Information Technology student at the University of Mumbai
+🎓 Final-year B.Tech Information Technology (Honors in Data Science) student
 
-💻 Full Stack Developer building modern web applications and backend systems
+💻 Full-stack developer working with React, Next.js, Node.js, TypeScript and Python
 
-🤖 Interested in Artificial Intelligence, Machine Learning and Data Science
+🤖 Applied machine learning: forecasting, NLP and computer vision
 
-🔐 Exploring AI Security, Cybersecurity and secure AI infrastructure
+🔐 AI security: prompt-injection detection and secure AI gateways
 
-☁️ Interested in Cloud Computing and scalable software architecture
+🧪 QA and testing experience from a software quality testing internship
 
 📍 Mumbai, Maharashtra, India
+
+🌐 Portfolio: [dhruvvawhle.vercel.app](https://dhruvvawhle.vercel.app/)
 
 ---
 
 ## 🚀 What I'm Building
 
-### PROMPTSHIELD — Build Safer AI
+### 🛡️ PromptShield — Build Safer AI
 
-> AI security infrastructure for analyzing prompts, detecting threats, enforcing policies, and controlling what reaches AI models.
+> An AI security gateway that analyzes every prompt, scores its risk from 0 to 100, and allows, warns, sanitizes, or blocks it before it reaches the LLM.
 
-**Focus Areas**
+- Detects prompt injection, jailbreaks, system-prompt leaks, role override, credential probing, and tool abuse
+- Two-layer defense: client-side pattern guard plus a server-side proxy to an OpenAI-compatible gateway
+- Firebase Admin ID-token verification with revocation checks; credentials stay server-side
+- Configurable policy engine, incident and audit logging, and a programmatic analysis API
 
-- Prompt Analysis
-- Threat Detection
-- Prompt Injection Protection
-- AI Security Policies
-- AI Gateway Architecture
-- Secure AI Agent Workflows
-
-**Stack**
-
-`Next.js` · `TypeScript` · `Tailwind CSS` · `Firebase` · `Node.js` · `OmniRoute`
+**Stack:** `Next.js` · `TypeScript` · `Tailwind CSS` · `Firebase` · `OmniRoute`
 
 🔗 **[View Repository](https://github.com/DhruvVawhle/PromptShield)**
 
 ---
 
+### 🤖 CampusAI — Voice-Enabled College Reception Robot
+
+> Final-Year Major Project (IT & EXTC departments). A multilingual (English, Hindi, Marathi, Hinglish) voice assistant for a college reception kiosk.
+
+- **My part:** the Next.js / TypeScript / Tailwind kiosk interface with a 3D robot, audio visualizer, QR route display, and the hooks for Web Audio recording, WebSocket and REST clients
+- **Teammate's part:** the FastAPI backend (Groq LLM and Whisper, FAISS RAG, SQLite) from [jayeshtiwari-ai/CampusAI](https://github.com/jayeshtiwari-ai/CampusAI)
+
+**Stack:** `Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion` · `React Three Fiber`
+
+🔗 **[View Repository](https://github.com/DhruvVawhle/CampusAI)**
+
+---
+
 ## 🧩 Featured Projects
 
-### 🌾 KrishiSaathi — AI-Powered Farm-to-Market Marketplace
+### 🌾 KrishiSaathi — Farm-to-Market Marketplace
 
-A farm-to-market platform connecting farmers directly with buyers while providing market intelligence and price forecasting.
+A marketplace connecting farmers directly with buyers, with crop price forecasting trained on AGMARKNET mandi data.
 
 **Tech:** React · Node.js · Firebase · MongoDB · Python · ARIMA · Razorpay
 
-- AI-based crop price prediction
-- Real-time mandi price insights
-- Farmer-to-customer marketplace
-- Secure payment integration
-- Firebase + MongoDB hybrid architecture
+- ARIMA price forecasting on 18,300+ commodity price records
+- Hybrid Firestore and MongoDB architecture with real-time cart sync and role-based dashboards
+- Google, Facebook and Apple OAuth, Razorpay payments, 8-language commodity search
+- Bundle size cut 69% (2.9MB to 900KB) through code splitting
+- ©️ Copyright registered with the Copyright Office, Government of India (Certificate No. SW-2026024057)
 
-🔗 **[Live Project](https://krishisaathi-web.vercel.app/)**  
-🔗 **[View Repository](https://github.com/DhruvVawhle/KrishiSaathi)**
+🔗 **[Live Project](https://krishisaathi-web.vercel.app/)** · **[View Repository](https://github.com/DhruvVawhle/KrishiSaathi)**
+
+---
+
+### 🧠 Brain Tumor Detection from MRI Images
+
+Data Science Honours group project comparing three deep learning models for 4-class MRI classification, with Grad-CAM saliency maps and a Streamlit app.
+
+**Tech:** PyTorch · Streamlit · Grad-CAM · scikit-learn
+
+| Model | Test Accuracy | Macro F1 |
+| :--- | :---: | :---: |
+| ResNet18 | 94.75% | 0.9462 |
+| MobileNetV3 | 93.94% | 0.9379 |
+| Custom CNN | 78.75% | 0.7778 |
+
+Evaluated on 1,600 held-out MRI scans. Academic project, not a medical device.
+
+🔗 **[Live Project](https://brain-tumor-detection-xai.streamlit.app/)** · **[View Repository](https://github.com/DhruvVawhle/brain-tumor-detection)**
+
+---
+
+### 🎬 CineSense — Movie Review Sentiment Analysis
+
+An NLP workbench that classifies IMDB reviews with three models and explains predictions word by word with LIME.
+
+**Tech:** Python · scikit-learn · PyTorch · Streamlit · LIME
+
+- Logistic Regression with TF-IDF reached 89.78% accuracy and 0.9634 ROC-AUC on 10,000 held-out reviews
+- Compared against Naive Bayes and a BiLSTM
+- 49 automated tests
+
+🔗 **[Live Project](https://cinesense-review.streamlit.app/)** · **[View Repository](https://github.com/DhruvVawhle/IMDB-Movie-Review-Sentiment-Analysis)**
 
 ---
 
 ### 🏥 MedTalk — AI Multilingual Healthcare Chatbot
 
-An AI-powered multilingual healthcare assistant built to provide conversational health information through text and voice interaction.
+A multilingual healthcare assistant offering general health information through text and voice. Not a diagnostic tool.
 
 **Tech:** Python · Flask · Gemini API · Google Cloud
-
-- AI-powered conversational assistance
-- Multilingual interaction
-- Voice-based communication
-- REST API integration
 
 🔗 **[View Repository](https://github.com/DhruvVawhle/MedTalk-AI-Chatbot)**
 
@@ -99,13 +134,13 @@ An AI-powered multilingual healthcare assistant built to provide conversational 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css" alt="Languages" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend Technologies" />
 </p>
 
 ### Backend
@@ -117,13 +152,19 @@ An AI-powered multilingual healthcare assistant built to provide conversational 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,sqlite" alt="Databases" />
 </p>
 
-### Cloud & Development Tools
+### AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,git,github,vscode,gemini,chatgpt,claude" alt="Cloud and Development Tools" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI and Machine Learning" />
+</p>
+
+### Cloud and Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,git,github,vscode" alt="Cloud and Development Tools" />
 </p>
 
 ---
@@ -131,24 +172,19 @@ An AI-powered multilingual healthcare assistant built to provide conversational 
 ## 🎯 Areas of Interest
 
 ```text
+Full-Stack Development
 AI / Machine Learning
 AI Security
-Full Stack Development
-Data Science
+Software Testing and QA
 Cloud Computing
-Cybersecurity
 Software Engineering
-System Architecture
 ```
 
 ---
+
 # 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVawhle&layout=compact&theme=tokyonight"/>
-
-</p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVawhle&layout=compact&theme=tokyonight" alt="Top languages" /> </p>
 
 ---
 
@@ -158,11 +194,11 @@ System Architecture
   <a href="mailto:dhruvawhle@gmail.com">
     <img src="https://img.shields.io/badge/Email-Dhruv%20Vawhle-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/dhruv-vawhle-277b2b2b8">
+  <a href="https://www.linkedin.com/in/dhruvvawhle">
     <img src="https://img.shields.io/badge/LinkedIn-Dhruv%20Vawhle-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/DhruvVawhle">
-    <img src="https://img.shields.io/badge/GitHub-DhruvVawhle-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://dhruvvawhle.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-dhruvvawhle.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
