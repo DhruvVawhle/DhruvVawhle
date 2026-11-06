@@ -23,7 +23,7 @@ Final-year B.Tech Information Technology student building AI-powered application
 
 ## 👨‍💻 About Me
 
-🎓 Final-year B.Tech Information Technology (Honors in Data Science) student
+🎓 Final-year B.Tech Information Technology (Honors in Data Science) student at Shree L. R. Tiwari College of Engineering, University of Mumbai
 
 💻 Full-stack developer working with React, Next.js, Node.js, TypeScript and Python
 
@@ -129,42 +129,70 @@ A multilingual healthcare assistant offering general health information through 
 
 ---
 
+## 💼 Experience
+
+- **Software Quality Testing Assurance Intern**, PRAM Educate IT Software LLP (Aug 2026 – Oct 2026): exploratory and functional testing of a live mobile app, UI/UX defect reporting
+- **Web Development Intern**, CodSoft (Dec 2025 – Jan 2026): responsive web apps deployed with GitHub Pages
+- **Software Development Engineer (Web) Intern**, Compozent (Dec 2024 – Jan 2025): React UI components, Git workflows, Agile sprints
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css" alt="Languages" />
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="ts" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" /></a>
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend Technologies" />
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /></a>
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend Technologies" />
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" /></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" /></a>
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,sqlite" alt="Databases" />
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" /></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="sqlite" /></a>
 </p>
 
 ### AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI and Machine Learning" />
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="pytorch" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="tensorflow" /></a>
 </p>
 
 ### Cloud and Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,git,github,vscode" alt="Cloud and Development Tools" />
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" /></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="gcp" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" /></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="vercel" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" /></a>
 </p>
 
 ---
@@ -184,7 +212,9 @@ Software Engineering
 
 # 📊 GitHub Statistics
 
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVawhle&layout=compact&theme=tokyonight" alt="Top languages" /> </p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvVawhle&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
 
 ---
 
