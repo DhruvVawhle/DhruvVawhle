@@ -153,20 +153,7 @@ Software Engineering
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma.vercel.app/api?username=DhruvVawhle&show_icons=true&theme=nightowl&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=DhruvVawhle&theme=nightowl&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=DhruvVawhle&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DhruvVawhle&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvVawhle&theme=nightowl&radius=10" alt="Activity Graph" />
 </p>
 
 ---
