@@ -1,18 +1,12 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center">
+<h1 align="center"> <h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Hello" height="60" align="middle" /> I'm
   <img src="./dhruv-icon.gif"
        alt="Dhruv Mascot"
        height="70"
        align="middle" />
-  I'm Dhruv Vawhle
+   Dhruv Vawhle
 </h1>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif"
-       alt="Banner"
-       width="600" />
-</p>
 
 <p align="center"><img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="600" /></p>
 
