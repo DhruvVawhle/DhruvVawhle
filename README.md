@@ -1,6 +1,18 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Hello" height="60" align="middle" /> Dhruv Vawhle</h1>
+<h1 align="center">
+  <img src="./dhruv-icon.gif"
+       alt="Dhruv Mascot"
+       height="70"
+       align="middle" />
+  I'm Dhruv Vawhle
+</h1>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif"
+       alt="Banner"
+       width="600" />
+</p>
 
 <p align="center"><img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="600" /></p>
 
@@ -25,12 +37,13 @@ Final-year B.Tech Information Technology student building AI-powered application
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year B.Tech IT (Honors in Data Science) at Shree L. R. Tiwari College of Engineering, University of Mumbai
+- 🎓 Final-year B.Tech IT Student
 - 💻 Full-stack: React, Next.js, Node.js, TypeScript, Python
 - 🤖 Applied ML: forecasting, NLP and computer vision
 - 🔐 AI security: prompt-injection detection and secure AI gateways
 - 🧪 QA and testing internship experience
-- 📍 Mumbai, India · 🌐 [dhruvvawhle.vercel.app](https://dhruvvawhle.vercel.app/)
+- 📍 Mumbai, India 
+- 🌐 [dhruvvawhle.vercel.app](https://dhruvvawhle.vercel.app/)
 
 ---
 
@@ -150,7 +163,7 @@ Software Engineering
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=DhruvVawhle&theme=nightowl&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
@@ -160,22 +173,4 @@ Software Engineering
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="mailto:dhruvawhle@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Dhruv%20Vawhle-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/dhruvvawhle">
-    <img src="https://img.shields.io/badge/LinkedIn-Dhruv%20Vawhle-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://dhruvvawhle.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-dhruvvawhle.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Build. Learn. Secure. Ship.</b>
-</p>
-
-<p align="center">
-  Thanks for visiting my profile! 🚀
-</p>
+<p align="center"> <a href="mailto:dhruvawhle@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;" /></a> <a href="https://www.linkedin.com/in/dhruvvawhle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;" /></a> <a href="https://github.com/DhruvVawhle" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin: 0 8px;" /></a> <a href="https://dhruvvawhle.vercel.app/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Portfolio" width="40" height="40" style="margin: 0 8px;" /></a> </p> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" /> </picture> <p align="center"> <b>Build. Learn. Secure. Ship.</b> </p> <p align="center"> Thanks for visiting my profile! 🚀 </p> <p align="center"><sub>Dhruv ·
