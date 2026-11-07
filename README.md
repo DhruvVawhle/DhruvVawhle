@@ -1,10 +1,8 @@
 <!-- ===================== HEADER ===================== -->
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Hello" width="320" /></p>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Hello" height="60" align="middle" /> Dhruv Vawhle</h1>
 
-<h1 align="center">I'm Dhruv Vawhle</h1>
-
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<p align="center"><img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="600" /></p>
 
 <h3 align="center">
 Software Engineer · Full-Stack Developer · AI/ML · AI Security
@@ -76,9 +74,6 @@ Final-year B.Tech Information Technology student building AI-powered application
 
 **🎬 [CineSense](https://github.com/DhruvVawhle/IMDB-Movie-Review-Sentiment-Analysis)** ([live](https://cinesense-review.streamlit.app/)) — IMDB sentiment analysis with three models and LIME explanations (89.78% accuracy).
 <br>`Python` · `scikit-learn` · `PyTorch` · `Streamlit`
-
-**🏥 [MedTalk](https://github.com/DhruvVawhle/MedTalk-AI-Chatbot)** — Multilingual healthcare chatbot with text and voice. Not a diagnostic tool.
-<br>`Python` · `Flask` · `Gemini API`
 
 ---
 
@@ -155,12 +150,24 @@ Software Engineering
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Trophies
 
 <p align="center">
+  <img src="https://github-readme-stats-sigma.vercel.app/api?username=DhruvVawhle&show_icons=true&theme=nightowl&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=DhruvVawhle&theme=nightowl&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=DhruvVawhle&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DhruvVawhle&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvVawhle&theme=nightowl&radius=10" alt="Activity Graph" />
+</p>
 
 ---
 
