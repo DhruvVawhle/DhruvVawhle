@@ -1,8 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Hello" height="40" /></p>
-
-<h1 align="center"><img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" alt="dev" height="36" align="middle" />&nbsp;I'm Dhruv Vawhle</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Hello" height="36" align="middle" />&nbsp;<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" alt="dev" height="36" align="middle" />&nbsp;I'm Dhruv Vawhle</h1>
 
 <p align="center"><img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="600" /></p>
 
@@ -177,4 +175,4 @@ Software Engineering
   Thanks for visiting my profile! 🚀
 </p>
 
-<p align="center"><sub>Dhruv · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Dhruv Vawhle · 
