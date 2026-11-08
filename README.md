@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Hello" height="32" align="middle" /> <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" alt="dev" height="32" align="middle" /> Dhruv Vawhle</h1>
+<h1 align="center">I'm<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Hello" height="32" align="middle" /> <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" alt="dev" height="32" align="middle" /> Dhruv Vawhle</h1>
 
 <p align="center"><img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="600" /></p>
 
