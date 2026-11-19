@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Hello" height="36" align="middle" />&nbsp;<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" alt="dev" height="36" align="middle" />&nbsp;I'm Dhruv Vawhle</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Hello" height="32" align="middle" />I'm<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" alt="dev" height="32" align="middle" /> Dhruv Vawhle</h1>
 
 <p align="center"><img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="600" /></p>
 
@@ -36,25 +36,30 @@ Final-year B.Tech Information Technology student building AI-powered application
 
 ## 🚀 What I'm Building
 
-### 🛡️ PromptShield — Build Safer AI
-> An AI security gateway that analyzes every prompt, scores its risk from 0 to 100, and allows, warns, sanitizes, or blocks it before it reaches the LLM.
+### 🛡️ PromptShield — Enterprise AI Security Gateway & Threat Intelligence Platform
+> High-throughput reverse-proxy gateway that normalizes, analyzes, and enforces security decisions on every prompt in under 15ms before a single token reaches the LLM.
 
-- Detects prompt injection, jailbreaks, system-prompt leaks, role override, credential probing, and tool abuse
-- Two-layer defense: client-side pattern guard plus a server-side proxy to an OpenAI-compatible gateway
-- Firebase Admin ID-token verification with revocation checks; credentials stay server-side
-- Configurable policy engine, incident and audit logging, and a programmatic analysis API
+- **Sub-15ms Pipeline & Threat Intelligence**: Zero-dependency heuristic engine with morphological root stemming (suffix-stripping `-ing`, `-ed`, `-ation`, `-ment`), Unicode/Base64/Hex normalization, and complete OWASP LLM Top 10 coverage (direct prompt injection, jailbreak personas, system-prompt exfiltration, credential probing, and automated PII redaction).
+- **Deterministic 4-Tier Policy Precedence**: Strictest-action-wins resolution engine (`BLOCK > SANITIZE > WARN > ALLOW`) with normalized 0–100 threat risk scoring and customizable risk thresholds.
+- **Enterprise Audit & Telemetry**: Tamper-resistant HMAC-SHA256 audit logging in Cloud Firestore, multi-tenant RBAC with token revocation checks, incident triage lifecycle workflows, and continuous dependency probes.
+- **2-Line SDK Drop-in & Ultra-Fast Inference**: Transparent OpenAI SDK replacement across TypeScript, Python, and cURL via `baseURL` redirection; direct Groq LPU inference (`qwen/qwen3.8-27b`, `openai/gpt-oss-120b`) with full SSE streaming and fail-closed security guarantees.
+- **Interactive Whitepapers**: Built-in OWASP threat simulator (`/security`) and 3-tier reverse-proxy topology with 6-stage pipeline contracts (`/architecture`).
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase" height="32" alt="tech stack" /> <img src="https://img.shields.io/badge/OmniRoute-444444?style=for-the-badge" height="28" alt="OmniRoute" />
-<br>🔗 **[View Repository](https://github.com/DhruvVawhle/PromptShield)**
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase,redis" height="32" alt="tech stack" /> <img src="https://img.shields.io/badge/Groq-LPU%20Inference-FF6F00?style=for-the-badge" height="28" alt="Groq LPU" /> <img src="https://img.shields.io/badge/Upstash-Redis-00E9A3?style=for-the-badge&logo=redis&logoColor=white" height="28" alt="Upstash Redis" />
+<br>🔗 **[View Repository](https://github.com/DhruvVawhle/PromptShield)** · 🌐 **[Live Showcase](https://dhruvvawhle.vercel.app)** · 📄 **[Architecture Specs](https://github.com/DhruvVawhle/PromptShield#readme)**
 
-### 🤖 CampusAI — Voice-Enabled College Reception Robot
-> Final-Year Major Project (IT & EXTC departments). A multilingual (English, Hindi, Marathi, Hinglish) voice assistant for a college reception kiosk.
+### 🤖 CampusAI — Autonomous Multilingual AI Campus Terminal & Reception Robot
+> Final-Year Major Project (IT & EXTC) for **Shree L. R. Tiwari College of Engineering (SLRTCE)**, Mumbai. Multilingual voice-driven kiosk terminal and reception robot with reactive 3D avatar and indoor wayfinding.
 
-- **My part:** the Next.js / TypeScript / Tailwind kiosk interface with a 3D robot, audio visualizer, QR route display, and the hooks for Web Audio recording, WebSocket and REST clients
-- **Teammate's part:** the FastAPI backend (Groq LLM and Whisper, FAISS RAG, SQLite) from [jayeshtiwari-ai/CampusAI](https://github.com/jayeshtiwari-ai/CampusAI)
+- **Reactive 3D Robot Avatar & SLRTCE Design System**: Built with Next.js 16, React 19, and Tailwind CSS v4; features state-aware micro-animations (idle floating, pulsing maroon listening halo with live interim speech streaming, speaking bounce synchronized with neural TTS).
+- **4-Dialect Multilingual Voice Loop**: Full spoken conversational cycle across **English, Hindi, Marathi, and Hinglish** with Groq Whisper (`whisper-large-v3-turbo`) STT and neural Indian accent Edge-TTS (`en-IN`, `hi-IN`, `mr-IN`).
+- **Confidence-Gated Hybrid RAG Engine**: Zero-hallucination knowledge retrieval combining FAISS vector search (`multilingual-e5-small`) on official college documents + structured SQLite3 database for faculty cabins, CAP cutoffs, fees, and exam timetables.
+- **Interactive SVG Wayfinding & Mobile QR Handoff**: Multi-step indoor navigation routes from Main Lobby to Destination Cabins with one-tap QR generation to carry directions or admission checklists directly on mobile devices.
+- **Kiosk Telemetry & Fault Isolation**: 45-second inactivity auto-reset for privacy, honest hardware mic status (`Mic Ready` vs. `Mic Blocked`), and hidden 5-tap technician diagnostics HUD.
+- **Engineering Collaboration**: Kiosk frontend architecture, UI/UX design system, 3D avatar micro-interactions & SVG wayfinding by **Dhruv Vawhle**; Multi-agent RAG backend by [Jayesh Tiwari](https://github.com/jayeshtiwari-ai/CampusAI).
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,threejs" height="32" alt="tech stack" /> <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="28" alt="Framer Motion" /> <img src="https://img.shields.io/badge/React%20Three%20Fiber-444444?style=for-the-badge" height="28" alt="React Three Fiber" />
-<br>🔗 **[View Repository](https://github.com/DhruvVawhle/CampusAI)**
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,python,fastapi,sqlite" height="32" alt="tech stack" /> <img src="https://img.shields.io/badge/Groq-Llama%203.3%2070B-FF6F00?style=for-the-badge" height="28" alt="Groq Llama 3.3" /> <img src="https://img.shields.io/badge/Whisper-AI%20STT-00A67E?style=for-the-badge" height="28" alt="Whisper STT" />
+<br>🔗 **[View Repository](https://github.com/DhruvVawhle/Campus-AI)** · 🌐 **[Upstream Backend](https://github.com/jayeshtiwari-ai/CampusAI)** · 🏛️ **[Live Terminal Preview](https://dhruvvawhle.vercel.app)**
 
 ---
 
@@ -175,4 +180,4 @@ Software Engineering
   Thanks for visiting my profile! 🚀
 </p>
 
-<p align="center"><sub>Dhruv Vawhle · 
+<p align="center"><sub>Dhruv Vawhle · Software Engineer & Applied AI Developer · Mumbai, India</sub></p>
