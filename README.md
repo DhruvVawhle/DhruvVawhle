@@ -59,7 +59,7 @@ Final-year B.Tech Information Technology student building AI-powered application
 - **Engineering Collaboration**: Kiosk frontend architecture, UI/UX design system, 3D avatar micro-interactions & SVG wayfinding by **Dhruv Vawhle**; Multi-agent RAG backend by [Jayesh Tiwari](https://github.com/jayeshtiwari-ai/CampusAI).
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,python,fastapi,sqlite" height="32" alt="tech stack" /> <img src="https://img.shields.io/badge/Groq-Llama%203.3%2070B-FF6F00?style=for-the-badge" height="28" alt="Groq Llama 3.3" /> <img src="https://img.shields.io/badge/Whisper-AI%20STT-00A67E?style=for-the-badge" height="28" alt="Whisper STT" />
-<br>🔗 **[View Repository](https://github.com/DhruvVawhle/Campus-AI)** · 🌐 **[Upstream Backend](https://github.com/jayeshtiwari-ai/CampusAI)** · 🏛️ **[Live Terminal Preview](https://dhruvvawhle.vercel.app)**
+<br>🔗 **[View Repository](https://github.com/DhruvVawhle/Campus-AI)** · 🌐 **[Upstream Backend](https://github.com/jayeshtiwari-ai/CampusAI)** ·
 
 ---
 
