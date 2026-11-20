@@ -46,7 +46,7 @@ Final-year B.Tech Information Technology student building AI-powered application
 - **Interactive Whitepapers**: Built-in OWASP threat simulator (`/security`) and 3-tier reverse-proxy topology with 6-stage pipeline contracts (`/architecture`).
 
 <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase,redis" height="32" alt="tech stack" /> <img src="https://img.shields.io/badge/Groq-LPU%20Inference-FF6F00?style=for-the-badge" height="28" alt="Groq LPU" /> <img src="https://img.shields.io/badge/Upstash-Redis-00E9A3?style=for-the-badge&logo=redis&logoColor=white" height="28" alt="Upstash Redis" />
-<br>🔗 **[View Repository](https://github.com/DhruvVawhle/PromptShield)** · 🌐 **[Live Showcase](https://dhruvvawhle.vercel.app)** · 📄 **[Architecture Specs](https://github.com/DhruvVawhle/PromptShield#readme)**
+<br>🔗 **[View Repository](https://github.com/DhruvVawhle/PromptShield)** · 📄 **[Architecture Specs](https://github.com/DhruvVawhle/PromptShield#readme)**
 
 ### 🤖 CampusAI — Autonomous Multilingual AI Campus Terminal & Reception Robot
 > Final-Year Major Project (IT & EXTC) for **Shree L. R. Tiwari College of Engineering (SLRTCE)**, Mumbai. Multilingual voice-driven kiosk terminal and reception robot with reactive 3D avatar and indoor wayfinding.
