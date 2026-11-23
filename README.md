@@ -1,23 +1,30 @@
-<!-- ===================== HEADER ===================== -->
+ <!-- ===================== HEADER ===================== -->
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Hello" height="32" align="middle" />I'm<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" alt="dev" height="32" align="middle" /> Dhruv Vawhle</h1>
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" height="32" align="middle" />
+  I'm
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="32" align="middle" />
+  Dhruv Vawhle
+</h1>
 
-<p align="center"><img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="600" /></p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="600" />
+</p>
 
 <h3 align="center">
-Software Engineer · Full-Stack Developer · AI/ML · AI Security
+  Software Engineer · Full-Stack Developer · AI/ML · AI Security
 </h3>
 
 <p align="center">
-Final-year B.Tech Information Technology student building AI-powered applications, full-stack platforms, and security-focused software.
+  Final-year B.Tech Information Technology student building intelligent applications, scalable full-stack platforms, and security-focused AI systems.
 </p>
 
 <p align="center">
   <a href="https://github.com/DhruvVawhle">
-    <img src="https://komarev.com/ghpvc/?username=DhruvVawhle&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=DhruvVawhle&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
   <a href="https://github.com/DhruvVawhle?tab=followers">
-    <img src="https://img.shields.io/github/followers/DhruvVawhle?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/DhruvVawhle?label=Followers&style=social" />
   </a>
 </p>
 
@@ -25,54 +32,98 @@ Final-year B.Tech Information Technology student building AI-powered application
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year B.Tech IT Student
-- 💻 Full-stack: React, Next.js, Node.js, TypeScript, Python
-- 🤖 Applied ML: forecasting, NLP and computer vision
-- 🔐 AI security: prompt-injection detection and secure AI gateways
-- 🧪 QA and testing internship experience
-- 📍 Mumbai, India · 🌐 [dhruvvawhle.vercel.app](https://dhruvvawhle.vercel.app/)
+- 🎓 Final-year B.Tech Information Technology Student
+- 💻 Full-Stack Development: React, Next.js, Node.js, TypeScript
+- 🤖 AI/ML: NLP, Computer Vision, Predictive Analytics
+- 🔐 AI Security: Prompt Injection Detection, Secure AI Gateways
+- 🧪 Software Testing, QA and Application Security
+- 🌐 Portfolio: [dhruvvawhle.vercel.app](https://dhruvvawhle.vercel.app/)
 
 ---
 
 ## 🚀 What I'm Building
 
-### 🛡️ PromptShield — Enterprise AI Security Gateway & Threat Intelligence Platform
-> High-throughput reverse-proxy gateway that normalizes, analyzes, and enforces security decisions on every prompt in under 15ms before a single token reaches the LLM.
+### 🛡️ [PromptShield](https://github.com/DhruvVawhle/PromptShield)
+**Enterprise AI Security Gateway & Threat Intelligence Platform**
 
-- **Sub-15ms Pipeline & Threat Intelligence**: Zero-dependency heuristic engine with morphological root stemming (suffix-stripping `-ing`, `-ed`, `-ation`, `-ment`), Unicode/Base64/Hex normalization, and complete OWASP LLM Top 10 coverage (direct prompt injection, jailbreak personas, system-prompt exfiltration, credential probing, and automated PII redaction).
-- **Deterministic 4-Tier Policy Precedence**: Strictest-action-wins resolution engine (`BLOCK > SANITIZE > WARN > ALLOW`) with normalized 0–100 threat risk scoring and customizable risk thresholds.
-- **Enterprise Audit & Telemetry**: Tamper-resistant HMAC-SHA256 audit logging in Cloud Firestore, multi-tenant RBAC with token revocation checks, incident triage lifecycle workflows, and continuous dependency probes.
-- **2-Line SDK Drop-in & Ultra-Fast Inference**: Transparent OpenAI SDK replacement across TypeScript, Python, and cURL via `baseURL` redirection; direct Groq LPU inference (`qwen/qwen3.8-27b`, `openai/gpt-oss-120b`) with full SSE streaming and fail-closed security guarantees.
-- **Interactive Whitepapers**: Built-in OWASP threat simulator (`/security`) and 3-tier reverse-proxy topology with 6-stage pipeline contracts (`/architecture`).
+> Secure Every Prompt — Analyze, detect, and enforce security decisions before a single token reaches your LLM.
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase,redis" height="32" alt="tech stack" /> <img src="https://img.shields.io/badge/Groq-LPU%20Inference-FF6F00?style=for-the-badge" height="28" alt="Groq LPU" /> <img src="https://img.shields.io/badge/Upstash-Redis-00E9A3?style=for-the-badge&logo=redis&logoColor=white" height="28" alt="Upstash Redis" />
-<br>🔗 **[View Repository](https://github.com/DhruvVawhle/PromptShield)** · 📄 **[Architecture Specs](https://github.com/DhruvVawhle/PromptShield#readme)**
+PromptShield is an AI security gateway and management platform that protects LLM applications through deterministic threat detection, policy enforcement, risk scoring, and secure multi-provider inference.
 
-### 🤖 CampusAI — Autonomous Multilingual AI Campus Terminal & Reception Robot
-> Final-Year Major Project (IT & EXTC) for **Shree L. R. Tiwari College of Engineering (SLRTCE)**, Mumbai. Multilingual voice-driven kiosk terminal and reception robot with reactive 3D avatar and indoor wayfinding.
+**Core Capabilities**
 
-- **Reactive 3D Robot Avatar & SLRTCE Design System**: Built with Next.js 16, React 19, and Tailwind CSS v4; features state-aware micro-animations (idle floating, pulsing maroon listening halo with live interim speech streaming, speaking bounce synchronized with neural TTS).
-- **4-Dialect Multilingual Voice Loop**: Full spoken conversational cycle across **English, Hindi, Marathi, and Hinglish** with Groq Whisper (`whisper-large-v3-turbo`) STT and neural Indian accent Edge-TTS (`en-IN`, `hi-IN`, `mr-IN`).
-- **Confidence-Gated Hybrid RAG Engine**: Zero-hallucination knowledge retrieval combining FAISS vector search (`multilingual-e5-small`) on official college documents + structured SQLite3 database for faculty cabins, CAP cutoffs, fees, and exam timetables.
-- **Interactive SVG Wayfinding & Mobile QR Handoff**: Multi-step indoor navigation routes from Main Lobby to Destination Cabins with one-tap QR generation to carry directions or admission checklists directly on mobile devices.
-- **Kiosk Telemetry & Fault Isolation**: 45-second inactivity auto-reset for privacy, honest hardware mic status (`Mic Ready` vs. `Mic Blocked`), and hidden 5-tap technician diagnostics HUD.
-- **Engineering Collaboration**: Kiosk frontend architecture, UI/UX design system, 3D avatar micro-interactions & SVG wayfinding by **Dhruv Vawhle**; Multi-agent RAG backend by [Jayesh Tiwari](https://github.com/jayeshtiwari-ai/CampusAI).
+- **Advanced Threat Detection:** Detects direct prompt injection, jailbreak attempts, system prompt extraction, persona hijacking, credential probing, Unicode obfuscation, and sensitive data exposure.
+- **Deterministic Security Engine:** Zero-dependency heuristic engine with morphological stemming, text normalization, threat pattern analysis, and risk scoring from 0–100.
+- **Policy Enforcement:** Strictest-action-wins decision engine with four security actions: `BLOCK > SANITIZE > WARN > ALLOW`.
+- **Hybrid AI Gateway:** Intelligent multi-provider inference using Google Gemini and Groq, with provider selection, automatic failover, and streaming support.
+- **Enterprise Security Dashboard:** Centralized management of security policies, incidents, audit logs, users, and system health.
+- **Cryptographic Audit Integrity:** RFC 8785 canonical JSON, HMAC-SHA256 signatures, and SHA-256 hash chaining for tamper-evident audit records.
+- **Multi-Tenant RBAC:** Four-tier access control with `SUPER_ADMIN`, `ADMIN`, `SECURITY_ANALYST`, and `VIEWER` roles.
+- **Real-Time Web Search:** Integrated DuckDuckGo and Wikipedia search grounding for current information.
+- **Production Security:** Firebase authentication, tenant isolation, IDOR protection, distributed Upstash rate limiting, and fail-closed enforcement.
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,python,fastapi,sqlite" height="32" alt="tech stack" /> <img src="https://img.shields.io/badge/Groq-Llama%203.3%2070B-FF6F00?style=for-the-badge" height="28" alt="Groq Llama 3.3" /> <img src="https://img.shields.io/badge/Whisper-AI%20STT-00A67E?style=for-the-badge" height="28" alt="Whisper STT" />
-<br>🔗 **[View Repository](https://github.com/DhruvVawhle/Campus-AI)** · 🌐 **[Upstream Backend](https://github.com/jayeshtiwari-ai/CampusAI)** ·
+**Technology Stack**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,firebase,redis" height="35" />
+
+<img src="https://img.shields.io/badge/Google%20Gemini-AI%20Inference-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-LPU%20Inference-F55036?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+🔗 **[Repository](https://github.com/DhruvVawhle/PromptShield)** · **[Security Architecture](https://github.com/DhruvVawhle/PromptShield#security-model--guarantees)** · **[Documentation](https://github.com/DhruvVawhle/PromptShield#readme)**
+
+---
+
+### 🤖 CampusAI
+**Autonomous Multilingual AI Campus Terminal & Reception Robot**
+
+> A multilingual AI-powered campus assistant designed for Shree L. R. Tiwari College of Engineering (SLRTCE).
+
+- **Multilingual Voice Assistant:** English, Hindi, Marathi, and Hinglish support using speech recognition and neural text-to-speech.
+- **Hybrid RAG Architecture:** FAISS vector search and SQLite-based structured knowledge retrieval.
+- **AI-Powered Campus Assistance:** Provides information about faculty, admissions, fees, examination schedules, and campus facilities.
+- **Interactive 3D Avatar:** Reactive robot interface with animated listening, speaking, and idle states.
+- **Indoor Wayfinding:** Interactive SVG navigation and QR-based mobile handoff.
+- **Privacy & Diagnostics:** Automatic kiosk inactivity reset and technician diagnostic interface.
+
+**Technology Stack**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,python,fastapi,sqlite" height="35" />
+
+🔗 **[My Repository](https://github.com/DhruvVawhle/Campus-AI)** · **[Upstream Backend](https://github.com/jayeshtiwari-ai/CampusAI)**
 
 ---
 
 ## 🧩 Featured Projects
 
-**🌾 [KrishiSaathi](https://github.com/DhruvVawhle/KrishiSaathi)** ([live](https://krishisaathi-web.vercel.app/)) — Farm-to-market marketplace with ARIMA crop price forecasting. Copyright registered (SW-2026024057).
-<br><img src="https://skillicons.dev/icons?i=react,nodejs,firebase,mongodb,py" height="32" alt="tech stack" />
+### 🌾 [KrishiSaathi](https://github.com/DhruvVawhle/KrishiSaathi)
+[Live Demo](https://krishisaathi-web.vercel.app/)
 
-**🧠 [Brain Tumor Detection](https://github.com/DhruvVawhle/brain-tumor-detection)** ([live](https://brain-tumor-detection-xai.streamlit.app/)) — 4-class MRI classifier with Grad-CAM; ResNet18 reached 94.75% accuracy. Academic project, not a medical device.
-<br><img src="https://skillicons.dev/icons?i=pytorch,py" height="32" alt="tech stack" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28" alt="Streamlit" /> <img src="https://img.shields.io/badge/Grad-CAM-444444?style=for-the-badge" height="28" alt="Grad-CAM" />
+Farm-to-market agricultural marketplace with ARIMA-based crop price forecasting.
 
-**🎬 [CineSense](https://github.com/DhruvVawhle/IMDB-Movie-Review-Sentiment-Analysis)** ([live](https://cinesense-review.streamlit.app/)) — IMDB sentiment analysis with three models and LIME explanations (89.78% accuracy).
-<br><img src="https://skillicons.dev/icons?i=py,sklearn,pytorch" height="32" alt="tech stack" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28" alt="Streamlit" /> <img src="https://img.shields.io/badge/LIME-444444?style=for-the-badge" height="28" alt="LIME" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,mongodb,python" height="32" />
+
+<sub>Copyright Registered: SW-2026024057</sub>
+
+### 🧠 [Brain Tumor Detection](https://github.com/DhruvVawhle/brain-tumor-detection)
+[Live Demo](https://brain-tumor-detection-xai.streamlit.app/)
+
+Four-class brain MRI classification using deep learning and Grad-CAM explainability. ResNet18 achieved 94.75% accuracy.
+
+<img src="https://skillicons.dev/icons?i=python,pytorch" height="32" />
+
+<img src="https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Grad--CAM-Explainable%20AI-444444?style=for-the-badge" />
+
+### 🎬 [CineSense](https://github.com/DhruvVawhle/IMDB-Movie-Review-Sentiment-Analysis)
+[Live Demo](https://cinesense-review.streamlit.app/)
+
+IMDB movie review sentiment analysis using three machine learning models and LIME explainability, achieving 89.78% accuracy.
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch" height="32" />
+
+<img src="https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/LIME-Explainable%20AI-444444?style=for-the-badge" />
 
 ---
 
@@ -81,57 +132,46 @@ Final-year B.Tech Information Technology student building AI-powered application
 ### Languages
 
 <p>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="ts" /></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" /></a>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css" />
 </p>
 
-### Frontend
+### Frontend Development
 
 <p>
-  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /></a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
-### Backend
+### Backend Development
 
 <p>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" /></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" /></a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
 </p>
 
 ### Databases
 
 <p>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" /></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="sqlite" /></a>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,sqlite" />
 </p>
 
 ### AI / Machine Learning
 
 <p>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" /></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="pytorch" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="tensorflow" /></a>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 </p>
 
-### Cloud and Development Tools
+### Cloud & Development Tools
 
 <p>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" /></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="gcp" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" /></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="vercel" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" /></a>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,git,github,vscode" />
+</p>
+
+### AI Infrastructure & Security
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Gemini-AI%20Models-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Groq-LPU%20Inference-F55036?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Upstash-Redis-00E9A3?style=for-the-badge" />
 </p>
 
 ---
@@ -140,9 +180,11 @@ Final-year B.Tech Information Technology student building AI-powered application
 
 ```text
 Full-Stack Development
-AI / Machine Learning
-AI Security
-Software Testing and QA
+Artificial Intelligence & Machine Learning
+AI Security & Prompt Injection Defense
+Natural Language Processing
+Computer Vision
+Software Testing & Quality Assurance
 Cloud Computing
 Software Engineering
 ```
@@ -152,7 +194,7 @@ Software Engineering
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DhruvVawhle&theme=nightowl&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=DhruvVawhle&theme=nightowl&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="70%" />
 </p>
 
 ---
@@ -160,24 +202,36 @@ Software Engineering
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:dhruvawhle@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;" /></a>
-  <a href="https://www.linkedin.com/in/dhruvvawhle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;" /></a>
-  <a href="https://github.com/DhruvVawhle" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin: 0 8px;" /></a>
-  <a href="https://dhruvvawhle.vercel.app/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Portfolio" width="40" height="40" style="margin: 0 8px;" /></a>
+  <a href="mailto:dhruvawhle@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="40" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhruvvawhle">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="40" height="40" />
+  </a>
+  <a href="https://github.com/DhruvVawhle">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
+  </a>
+  <a href="https://dhruvvawhle.vercel.app/">
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" />
+  </a>
 </p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+<h3 align="center">
+  Build. Learn. Secure. Ship. 🚀
+</h3>
+
 <p align="center">
-  <b>Build. Learn. Secure. Ship.</b>
+  Thanks for visiting my profile!
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! 🚀
+  <sub>Dhruv Vawhle · Software Engineer & Applied AI Developer · Mumbai, India</sub>
 </p>
-
-<p align="center"><sub>Dhruv Vawhle · Software Engineer & Applied AI Developer · Mumbai, India</sub></p>
